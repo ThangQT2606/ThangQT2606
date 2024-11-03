@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="head" /> </p>
 <h1 align="center">Hi 👋, I'm Dinh Thang</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
