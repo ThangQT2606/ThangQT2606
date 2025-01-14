@@ -8,7 +8,7 @@
 
  🌱 I’m currently learning **LLMs.**
   
- 💬 Ask me about **CNNs-Image Classifiers, Object detection models (YOLO), Machine Learning, Neural networks, Object Tracking,Python**
+ 💬 Ask me about **CNNs-Image Classifiers, Object detection models (YOLO), Machine Learning, Neural networks, Object Tracking, Python**
 </br>
 </p>
 <h3 align="left">Languages and Tools:</h3>
