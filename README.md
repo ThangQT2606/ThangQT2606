@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="head" /> </p>
-<h1 align="center">Hi 👋, I'm Dinh Thang</h1>
+<h1 align="center">Hi 👋, I'm Dinh Quang Thang</h1>
 </br>
 
 ## About Me :eyes:
@@ -8,7 +8,7 @@
 
  🌱 I’m currently learning **LLMs.**
   
- 💬 Ask me about **CNNs-Image Classifiers, Object detection models (YOLO), Machine Learning, Neural networks, Python**
+ 💬 Ask me about **CNNs-Image Classifiers, Object detection models (YOLO), Machine Learning, Neural networks, Object Tracking,Python**
 </br>
 </p>
 <h3 align="left">Languages and Tools:</h3>
