@@ -38,10 +38,6 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/LangChain_Logo.svg/1920px-LangChain_Logo.svg.png?20250612121153" alt="langchain" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/LangChain_Logo.svg/1920px-LangChain_Logo.svg.png" alt="langchain" width="80" style="vertical-align:middle; margin-left:4px;"/>
   </a>
 </p>
-
-
-
-
