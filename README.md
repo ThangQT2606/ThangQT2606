@@ -38,7 +38,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://commons.wikimedia.org/wiki/File%3ALangChain_Logo.svg?utm_source=chatgpt.com#/media/File:LangChain_Logo.svg" alt="langchain" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/LangChain_Logo.svg/1920px-LangChain_Logo.svg.png?20250612121153" alt="langchain" width="40" height="40"/>
   </a>
 </p>
 
