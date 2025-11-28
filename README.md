@@ -11,7 +11,7 @@
  💬 Ask me about **CNNs-Image Classifiers, Object detection models (YOLO), Machine Learning, Neural networks, Object Tracking, Python**
 </br>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Tools and Framework:</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
