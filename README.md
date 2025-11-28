@@ -41,5 +41,9 @@
     <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg#gh-light-mode-only" 
          alt="langchain" width="120" style="vertical-align:middle; margin-left:6px;"/>
   </a>
+  <a href="https://www.ultralytics.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" 
+         alt="YOLO" width="120" style="vertical-align:middle; margin-left:6px;"/>
+  </a>
 </p>
 
