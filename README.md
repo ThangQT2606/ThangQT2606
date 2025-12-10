@@ -47,7 +47,7 @@
   </a>
    <a href="https://docs.unsloth.ai/" target="_blank" rel="noreferrer">
     <img src="https://github.com/unslothai/unsloth/blob/main/images/unsloth%20new%20logo.png" 
-         alt="Unsloth" width="120" style="vertical-align:middle; margin-left:6px;"/>
+         alt="Unsloth" width="120"/>
   </a>
 </p>
 
