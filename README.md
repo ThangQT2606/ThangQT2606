@@ -45,5 +45,9 @@
     <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" 
          alt="YOLO" width="120" style="vertical-align:middle; margin-left:6px;"/>
   </a>
+   <a href="https://docs.unsloth.ai/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/unslothai/unsloth/blob/main/images/unsloth%20new%20logo.png" 
+         alt="Unsloth" width="120" style="vertical-align:middle; margin-left:6px;"/>
+  </a>
 </p>
 
